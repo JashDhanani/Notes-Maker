@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Notes-Maker/static/css/main.bd60ade8.css",
+    "main.js": "/Notes-Maker/static/js/main.055ca709.js",
+    "static/js/787.b2615d3d.chunk.js": "/Notes-Maker/static/js/787.b2615d3d.chunk.js",
+    "index.html": "/Notes-Maker/index.html",
+    "main.bd60ade8.css.map": "/Notes-Maker/static/css/main.bd60ade8.css.map",
+    "main.055ca709.js.map": "/Notes-Maker/static/js/main.055ca709.js.map",
+    "787.b2615d3d.chunk.js.map": "/Notes-Maker/static/js/787.b2615d3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd60ade8.css",
+    "static/js/main.055ca709.js"
+  ]
+}
